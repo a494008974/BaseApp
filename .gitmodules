@@ -1,9 +1,9 @@
 [submodule "CommonSDK"]
 	path = CommonSDK
-	url = http://localhost:10080/15820432610/CommonSDK.git
+	url = https://github.com/a494008974/CommonSDK.git
 [submodule "CommonRes"]
 	path = CommonRes
-	url = http://localhost:10080/15820432610/CommonRes.git
+	url = https://github.com/a494008974/CommonRes.git
 [submodule "CommonService"]
 	path = CommonService
-	url = http://localhost:10080/15820432610/CommonService.git
+	url = https://github.com/a494008974/CommonService.git
